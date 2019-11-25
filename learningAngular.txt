@@ -1,0 +1,13 @@
+component
+service
+dependency injection module
+follows HTML-5 
+At the heart of angular there is tone of JS
+The more JS you know, the more it'll be helpful to pick up with angular
+TS - or ES-2015
+
+learning git and gitHub by Ray Villalobos
+learning npm the Node Package Manager Emmanuel Henry
+leanring the angular CLI by Victor Mejia
+
+classes and decorators
